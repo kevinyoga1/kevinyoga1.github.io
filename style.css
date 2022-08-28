@@ -1,0 +1,21 @@
+.jumbotron{
+    color: rgb(9, 9, 67);
+    padding-top: 2rem;
+    background-color:aqua;
+}
+
+#about{
+    background-color: #a2d9ff;
+}
+
+#project{
+    background-color: pink;
+}
+
+#contact {
+    background-color: #445566;
+}
+
+section{
+    padding-top: 5rem;
+}
